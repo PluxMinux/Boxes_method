@@ -1,2 +1,2 @@
-# Boxes_method
+# Boxes Method
 Encryption message
