@@ -1,2 +1,2 @@
 # Boxes Method
-Encryption message
+Encryption message.
